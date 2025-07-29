@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488684281360",
+    "project_id": "tecmuu-playground-w166t1",
+    "storage_bucket": "tecmuu-playground-w166t1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488684281360:android:14dbcb93a3e51e3847b495",
+        "android_client_info": {
+          "package_name": "br.app.tecmuu.teste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgKetgehHp-ycDzGWkEXYsXGXYjJvcD64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
